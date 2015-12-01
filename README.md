@@ -17,3 +17,9 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:racquetbot]]
         end
+
+## Running
+
+```bash
+ SLACK_API_TOKEN=api-token RACQUET_CLUB_ID=666 mix run --no-halt
+```
