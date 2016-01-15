@@ -1,3 +1,7 @@
+# DEPRECATED #
+
+We have moved our work to <https://github.com/mikfreedman/slacker-racquetio>
+
 # Racquetbot
 
 > slackbot that posts to racquet.io
